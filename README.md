@@ -1,6 +1,12 @@
 # Algorithm Study
 
-1. BruteForce
-2. Divide and Conquer
-3. Dynamic Programming
-4. Greedy
+0. Search
+   - Binary Search
+   - Linear Search
+2. BruteForce
+3. Divide and Conquer
+   - Quick Sort
+5. Dynamic Programming
+   - Fibo Memoization
+   - Fibo Optimized
+7. Greedy
